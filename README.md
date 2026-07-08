@@ -91,15 +91,15 @@ sudo python3 firewall.py
 
 ### Unblock IP
 
-![Unblock IP](screenshot/unblock-ip.png)
+![Unblock IP](screenshot/Unblock-ip.png)
 
 ### Firewall Rules
 
-![Firewall Rules](screenshot/firewall-rules.png)
+![Firewall Rules](screenshot/Firewall-Rules.png)
 
 ### Firewall Log
 
-![Firewall Log](screenshot/firewall-log.png)
+![Firewall Log](screenshot/Firewall-Log.png)
 
 ### Flush All Firewall Rules
 
