@@ -67,7 +67,7 @@ sudo python3 firewall.py
 
 ```text
 =========================================
-        PYSHIELD FIREWALL v1.0
+        PYSHIELD FIREWALL
 =========================================
 
 1. Block IP
