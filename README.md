@@ -83,16 +83,23 @@ sudo python3 firewall.py
 
 ## 📸 Screenshots
 
-Add screenshots in the `screenshots` folder.
+### Main Menu
+![Main Menu](screenshot/mainmenu.png)
 
-Suggested screenshots:
+### Block IP
+![Block IP](screenshot/block-ip.png)
 
-* Main Menu
-* Block IP
-* Unblock IP
-* View Firewall Rules
-* Firewall Log
-* Project Folder
+### Unblock IP
+![Block IP](screenshot/unblock-ip.png)
+
+### Firewall Rules
+![Firewall Rules](screenshot/View-Firewall-Rules.png)
+
+### Firewall Log
+![Firewall Log](screenshot/Firewall-Log.png)
+
+### Flush all Firewall rules
+![Firewall Log](screenshot/flush-all-firewall-rules.png)
 
 
 ---
