@@ -103,7 +103,7 @@ sudo python3 firewall.py
 
 ### Flush All Firewall Rules
 
-![Flush All Firewall Rules](screenshot/flush-firewall-rules.png)
+![Flush All Firewall Rules](screenshot/flush-all-firewall-rules.png)
 
 
 ## ⚠️ Disclaimer
