@@ -83,27 +83,27 @@ sudo python3 firewall.py
 
 ### Main Menu
 
-![Main Menu](screenshots/main-menu.png)
+![Main Menu](screenshot/main-menu.png)
 
 ### Block IP
 
-![Block IP](screenshots/block-ip.png)
+![Block IP](screenshot/block-ip.png)
 
 ### Unblock IP
 
-![Unblock IP](screenshots/unblock-ip.png)
+![Unblock IP](screenshot/unblock-ip.png)
 
 ### Firewall Rules
 
-![Firewall Rules](screenshots/firewall-rules.png)
+![Firewall Rules](screenshot/firewall-rules.png)
 
 ### Firewall Log
 
-![Firewall Log](screenshots/firewall-log.png)
+![Firewall Log](screenshot/firewall-log.png)
 
 ### Flush All Firewall Rules
 
-![Flush All Firewall Rules](screenshots/flush-firewall-rules.png)
+![Flush All Firewall Rules](screenshot/flush-firewall-rules.png)
 
 
 ## ⚠️ Disclaimer
