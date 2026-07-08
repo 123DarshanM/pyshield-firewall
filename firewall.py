@@ -35,7 +35,7 @@ def validate_ip(ip):
 # -------------------------------
 def menu():
     print(f"\n{CYAN}========================================={RESET}")
-    print(f"{BLUE}        PYSHIELD FIREWALL RESET}")
+    print(f"{BLUE}        PYSHIELD FIREWALL {RESET}")
     print(f"{CYAN}========================================={RESET}")
     print("1. Block IP")
     print("2. Unblock IP")
