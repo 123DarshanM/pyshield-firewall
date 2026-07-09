@@ -116,6 +116,6 @@ Always test firewall rules in your own lab or authorized environment. Do not use
 
 ## 👨‍💻 Author
 
-**Darshan M*
+**Darshan M**
 
 
